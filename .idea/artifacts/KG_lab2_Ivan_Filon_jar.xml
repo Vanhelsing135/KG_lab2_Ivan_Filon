@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="KG_lab2_Ivan_Filon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KG_lab2_Ivan_Filon_jar</output-path>
+    <root id="archive" name="KG_lab2_Ivan_Filon.jar">
+      <element id="module-output" name="KG_lab2_Ivan_Filon" />
+    </root>
+  </artifact>
+</component>
